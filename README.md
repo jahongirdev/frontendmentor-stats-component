@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://your-solution-url.com)
-- Live Site URL: [Live Preview]()
+- Solution URL: [Github Repo](https://github.com/jahongirdev/frontendmentor-stats-component)
+- Live Site URL: [Live Preview](https://frontendmentor-stats-component.netlify.app/)
 
 ### Built with
 
